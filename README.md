@@ -2,9 +2,17 @@
 
 Collect ZIP, RAR, 7z, and tar archives into one folder with a simple multilingual GUI/CLI.
 
+> Built with AI coding models. Designed from real workflow problems.
+
+## Screenshots
+
 ![Archive Collector GUI](docs/images/archive-collector-gui.png)
 
 Archive Collector is a small local tool that scans a folder for archive files and collects them into one destination folder. It is useful when downloads, backups, or project folders contain archives scattered across many subfolders.
+
+## Download
+
+Download source archives and future packaged builds from [GitHub Releases](https://github.com/mococouo/archive-collector/releases), or run directly from this repository with Python.
 
 ## Features
 
