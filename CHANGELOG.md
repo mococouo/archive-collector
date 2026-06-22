@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.0.1
+
+### Added
+
+- MIT license.
+- README license section.
+- GitHub repository description and topics.
+
 ## v1.0.0
 
 Initial public release.

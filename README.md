@@ -82,3 +82,7 @@ python archive_collector.py --list-languages
 4. Run `python archive_collector.py --list-languages` and confirm the new language appears.
 
 English is the fallback language. Missing keys in any translation file automatically fall back to English.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
